@@ -8,7 +8,7 @@
   <p>Click the button below to go to the Minecraft app page on sus free store.</p>
 
   <a class="button" href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe" target="_blank">
-    Open in Play Store
+    Open in sus free store
   </a>
 
   <footer>
